@@ -23,6 +23,7 @@
         <img :src="article.image" class="image">
       </div>
       <div v-html="article.body" class="article-body"></div>
+      sadasd
     </div>
   </div>
 </template>
